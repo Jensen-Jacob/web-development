@@ -6,6 +6,8 @@ The form method used here is "post". The post method is generally considered bet
 
 Try changing the value of "method" in the form tag to "get" and submitting the form with some dummy values. You will see that whatever you have entered into the form, even the password will be visible in the URL.
 
+The maxlength attribute is used to determine how many characters can be entered in an input field.
+
 If you have any more doubts about the basics of HTML Forms, you can find answers by gooogling your doubts, such as "How to add a date picker to an HTML Form?"
 
 REMEMBER, Google is one of a programmers best friends.
